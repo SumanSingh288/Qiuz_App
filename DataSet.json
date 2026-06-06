@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Which keyword is used to create a class in Python?",
+        "options": ["class", "Class", "define", "object"],
+        "answer": "class"
+    },
+    {
+        "question": "What is the output type of input() in Python?",
+        "options": ["int", "float", "str", "bool"],
+        "answer": "str"
+    },
+    {
+        "question": "Which function is used to find the length of a list?",
+        "options": ["size()", "count()", "len()", "length()"],
+        "answer": "len()"
+    },
+    {
+        "question": "Which loop is used when the number of iterations is known?",
+        "options": ["while", "for", "do-while", "loop"],
+        "answer": "for"
+    },
+    {
+        "question": "Which operator is used for equality comparison?",
+        "options": ["=", "==", "!=", ">="],
+        "answer": "=="
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Run Access Memory"],
+        "answer": "Random Access Memory"
+    },
+    {
+        "question": "Which company developed Windows?",
+        "options": ["Apple", "Google", "Microsoft", "IBM"],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "What is the brain of the computer?",
+        "options": ["RAM", "Hard Disk", "CPU", "Monitor"],
+        "answer": "CPU"
+    },
+    {
+        "question": "Which symbol is used for multiplication in Python?",
+        "options": ["x", "*", "%", "#"],
+        "answer": "*"
+    },
+    {
+        "question": "Which data type stores True or False values?",
+        "options": ["int", "str", "bool", "float"],
+        "answer": "bool"
+    },
+    {
+        "question": "Which method converts a string to lowercase?",
+        "options": ["lower()", "small()", "down()", "case()"],
+        "answer": "lower()"
+    },
+    {
+        "question": "What is the full form of URL?",
+        "options": ["Uniform Resource Locator", "Universal Resource Locator", "Unique Resource Locator", "Uniform Reference Locator"],
+        "answer": "Uniform Resource Locator"
+    },
+    {
+        "question": "Which protocol is used to access websites?",
+        "options": ["FTP", "HTTP", "SMTP", "TCP"],
+        "answer": "HTTP"
+    },
+    {
+        "question": "Which Python collection is unordered?",
+        "options": ["List", "Tuple", "Set", "String"],
+        "answer": "Set"
+    },
+    {
+        "question": "Which keyword is used for decision making?",
+        "options": ["for", "while", "if", "def"],
+        "answer": "if"
+    },
+    {
+        "question": "What is 15 % 4?",
+        "options": ["3", "2", "1", "4"],
+        "answer": "3"
+    },
+    {
+        "question": "Which company owns YouTube?",
+        "options": ["Amazon", "Microsoft", "Google", "Meta"],
+        "answer": "Google"
+    },
+    {
+        "question": "Which function displays output in Python?",
+        "options": ["show()", "display()", "print()", "output()"],
+        "answer": "print()"
+    },
+    {
+        "question": "Which of these is a mutable data type?",
+        "options": ["Tuple", "String", "List", "Integer"],
+        "answer": "List"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Text Markup Language", "High Text Machine Language", "Hyper Tool Markup Language", "Hyperlink Text Markup Language"],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Which tag is used to create a hyperlink in HTML?",
+        "options": ["<p>", "<a>", "<h1>", "<img>"],
+        "answer": "<a>"
+    },
+    {
+        "question": "Which database language is used to retrieve data?",
+        "options": ["Python", "SQL", "HTML", "CSS"],
+        "answer": "SQL"
+    },
+    {
+        "question": "Which SQL command is used to fetch records?",
+        "options": ["INSERT", "DELETE", "SELECT", "UPDATE"],
+        "answer": "SELECT"
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        "answer": "Cascading Style Sheets"
+    },
+    {
+        "question": "Which JavaScript keyword declares a variable?",
+        "options": ["var", "int", "string", "define"],
+        "answer": "var"
+    },
+    {
+        "question": "Which operator is used for logical AND in Python?",
+        "options": ["&&", "&", "and", "AND"],
+        "answer": "and"
+    },
+    {
+        "question": "What is the default port number of HTTP?",
+        "options": ["21", "25", "80", "443"],
+        "answer": "80"
+    },
+    {
+        "question": "Which company developed the Android operating system?",
+        "options": ["Apple", "Google", "Microsoft", "Samsung"],
+        "answer": "Google"
+    },
+    {
+        "question": "Which file extension is used for JSON files?",
+        "options": [".txt", ".xml", ".json", ".csv"],
+        "answer": ".json"
+    },
+    {
+        "question": "Which Python library is commonly used for data analysis?",
+        "options": ["NumPy", "Pandas", "Matplotlib", "All of the above"],
+        "answer": "All of the above"
+    }
+]
